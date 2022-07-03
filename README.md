@@ -1,1 +1,1 @@
-To-do list usando React.
+To-do list usando React e Typescript.
